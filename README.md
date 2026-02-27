@@ -118,7 +118,7 @@ A solução foi implementar endpoints DELETE específicos (como /mcs/:id), torna
 
 ### Passo 1: Clone o Repositório
 ```bash
-git clone [URL_DO_REPOSITORIO]
+git clone https://github.com/anapousa/CSI606-Sistemas-Web.git
 cd arena-cypher-management
 ```
 
